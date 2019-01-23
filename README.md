@@ -1,4 +1,4 @@
-# ImageToText
+# IMAGETOTEXT-BANGLA-IMAGE-CAPTION-GENERATION-USING-HYBRID-RECURRENT-NEURAL-NETWORK 
 1. Run pre-d.py for pre-processing of whole dataset and generate a features.pkl file.
 2. Run pre-txt.py for generate description file.
 3. Run load-data.py for load data.
