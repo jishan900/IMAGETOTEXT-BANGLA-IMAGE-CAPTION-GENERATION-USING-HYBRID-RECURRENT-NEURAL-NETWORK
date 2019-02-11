@@ -12,6 +12,8 @@ from keras.layers import Embedding
 from keras.layers import Dropout
 from keras.layers.merge import add
 from keras.callbacks import ModelCheckpoint
+import matplotlib
+matplotlib.use('agg')
 import matplotlib.pyplot as plt
 
 # load doc into memory
